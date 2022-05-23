@@ -1,12 +1,12 @@
-52322881c93ab60fc369489865dfca0f *DESCRIPTION
-fb191638e4fdac69495696c8c4ef80be *NAMESPACE
+6fb859150126d2c65ca3b37f8989375d *DESCRIPTION
+bb603514a65cb617236531bfed4c7f15 *NAMESPACE
 ab86849d467872896b1e902026147452 *R/lbfgs.R
 b9b3f2cfbeac89be52300a544dcac5f7 *README.md
-e4c1d5e535d208609ce2b2d4f21311a5 *build/vignette.rds
-e738c28cf56e8960cbe1551782955285 *data/Leukemia.RData
+42ab5305c1bddf27c40613b60771dc24 *build/vignette.rds
+61bf49c6992e09bfd1501e4c2faa4f2e *data/Leukemia.RData
 c5860586a1a21ab763df2591e7abb95a *data/datalist
 9227713df3b31270647aacce90f285ba *inst/doc/Vignette.Rnw
-5c6cc373e5f5ac4fad001a5b9cd19c91 *inst/doc/Vignette.pdf
+c8c3da203e02ab3544684fe948f4a291 *inst/doc/Vignette.pdf
 e71c4109ab5999d8ee7d92a7711c5ca7 *man/Leukemia.Rd
 4201d80f805c2a35d065dac18f7cad43 *man/lbfgs.Rd
 67a3df0d583e50dfa9b6fcc1a67cf7ea *src/RcppExports.cpp
