@@ -23,8 +23,8 @@
 \def\citeshort#1{(\citeauthor{#1} \citeyear{#1})}
 \newcommand\citea{\citeauthor}
 
-\author{Antonio Coppola\\ Harvard University \And 
-        Brandon M. Stewart\\ Harvard University}
+\author{Antonio Coppola\\ Stanford University \And 
+        Brandon M. Stewart\\ Princeton University}
 \title{\pkg{lbfgs}: Efficient L-BFGS and OWL-QN Optimization in \proglang{R}}
 
 \Plainauthor{Antonio Coppola, Brandon M. Stewart} %% comma-separated
@@ -33,17 +33,17 @@
 
 \Address{
   Antonio Coppola\\
-  Department of Government\\
-  Harvard University\\
-  1737 Cambridge St, Cambridge, MA, USA\\
-  E-mail: \email{acoppola@college.harvard.edu} \\
+  Stanford Institute for Economic Policy Research\\
+  Stanford University\\
+  366 Galvez Street, Stanford, CA, USA\\
+  E-mail: \email{acoppola@stanford.edu} \\
   \\
   Brandon M. Stewart\\
-  Department of Government\\
-  Harvard University\\
-  1737 Cambridge St, Cambridge, MA, USA\\
-  E-mail: \email{bstewart@fas.harvard.edu}\\
-  URL: \url{http://scholar.harvard.edu/bstewart}\\
+  Department of Sociology\\
+  Princeton University\\
+  149 Wallace Hall, Princeton, NJ, USA\\
+  E-mail: \email{bms4@princeton.edu}\\
+  URL: \url{https://scholar.princeton.edu/bstewart/home}\\
 }
 
 
